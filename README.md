@@ -1,7 +1,7 @@
 ## Sup 👋
 
 * Math teacher
-* Developer of a textbook in mathematics
+* Developer of an online textbook in mathematics
 * Developer of other useful tools for mathematics teachers.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reneaas&show_icons=true&locale=en" alt="reneaas" /></p>
